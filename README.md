@@ -4,7 +4,7 @@ Minha primeira aplicação sobre um aplicativo para amigos/colegas dividirem con
 
 ## Como Funciona
 
-Essa aplicação foi feita a partir da linguagem Dart e aplicação em Flutter.
+Essa aplicação foi feita a partir da linguagem [Dart](dart.dev) e aplicação em [Flutter](flutter.dev).
 
 A aplicação tem como base registrar as entradas e retornar ao usuário de forma prática e rápida o valor a ser
 pago por cada amigo.
